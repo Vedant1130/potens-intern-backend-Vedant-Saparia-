@@ -1,0 +1,6 @@
+{
+  "name": "Financial Product Recommendation Engine",
+  "description": "A secure, deterministic REST API and matching engine mapping user credit ratings, income margins, and demographic profiles to optimal financial products.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
